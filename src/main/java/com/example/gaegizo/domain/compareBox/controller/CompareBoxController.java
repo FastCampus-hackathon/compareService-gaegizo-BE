@@ -58,8 +58,5 @@ public class CompareBoxController {
         return ResponseEntity.ok().build();
     }
 
-
-
-
 }
 
