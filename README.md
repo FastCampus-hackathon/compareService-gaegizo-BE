@@ -1,4 +1,4 @@
-# Compare-announcement-front
+# Compare-announcement-back
 
 패스트캠퍼스와 점핏에서 주관하는 해커톤에서 진행한 프로젝트입니다. 사람인 api를 활용한 공고 비교하기 서비스 개발 솔루션을 진행했습니다.
 
